@@ -1,0 +1,28 @@
+БРИФ НА КРЕАТИВ — QE55Q60C
+Сгенерировано автоматически из Excel · язык: RU · ритейлер: Sulpak
+============================================================
+
+Категория: Телевизор QLED 55"
+Заголовок (Slogan): Кино в каждом кадре
+Сумма выгоды: 80 000 тг
+
+Цена: 379 990 тг (было 459 990 тг, скидка -17%)
+Рассрочка от: 31 666 тг/мес
+
+Фичи (левая колонка / в Display — в ряд):
+  • Quantum HDR
+  • Object Tracking Sound
+  • SmartThings
+
+Бейдж объёма: 55"
+Нижняя плашка: Кэшбэк 3%  ·  Samsung Pay · 0-0-12
+Канал: Technodom
+
+Форматы к производству (PSD + JPG каждый):
+  1. Feed Square    1080×1080  · safe zone 64px  · лого top-right
+  2. Feed Portrait  1080×1350  · safe zone 64-80px · лого top-right
+  3. Stories/Reels  1080×1920  · safe zone top 250 / bottom 350 / side 72px · без лого
+  4. Display        1200×628   · safe zone 60px  · лого top-right
+
+Проверка safe zone / clear space:
+  ✔ нарушений не найдено на всех 4 форматах
